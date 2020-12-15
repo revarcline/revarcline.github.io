@@ -1,0 +1,3 @@
+[submodule "jekyll-gruvvy"]
+	path = jekyll-gruvvy
+	url = https://github.com/revarcline/jekyll-gruvvy
