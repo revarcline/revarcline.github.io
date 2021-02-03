@@ -5,4 +5,4 @@
 layout: home
 ---
 
-[rydermatic](rydermatic.buckar.ooo)
+[rydermatic](http://rydermatic.buckar.ooo)
