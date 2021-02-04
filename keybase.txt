@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/revarcline
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://buckar.ooo
+  * I am revarcline (https://keybase.io/revarcline) on keybase.
+  * I have a public key ASA08ea9RH1znmIG0fvMYhDuTWQbU9l909-xEwKmkXh5FAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012034f1e6bd447d739e6206d1fbcc6210ee4d641b53d97dd3dfb11302a6917879140a",
+      "host": "keybase.io",
+      "kid": "012034f1e6bd447d739e6206d1fbcc6210ee4d641b53d97dd3dfb11302a6917879140a",
+      "uid": "a8490937c7630d66c8a05c7176ca6d19",
+      "username": "revarcline"
+    },
+    "merkle_root": {
+      "ctime": 1612464380,
+      "hash": "36d71f3b9040ca47799e148e935793072481cd8275b06afc8ea2c53b64d291e427af947c78791347e265fa0ffe4eb6b6c22512da7d02b93d69403c0e1be7b43d",
+      "hash_meta": "1e5f4118e031b48324892eeadc89971a5eb3505a97c2d734ded1a81683e394c7",
+      "seqno": 19011358
+    },
+    "service": {
+      "entropy": "8XK2GqFpZ54a/rKgeceIBOs1",
+      "hostname": "buckar.ooo",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1612464451,
+  "expire_in": 504576000,
+  "prev": "eae1ddc4d3895500d682d01f5daf323baad6b778cd2f4e025ac85f1088b863c9",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNPHmvUR9c55iBtH7zGIQ7k1kG1PZfdPfsRMCppF4eRQKp3BheWxvYWTESpcCGMQg6uHdxNOJVQDWgtAfXa8yO6rWt3jNL04CWshfEIi4Y8nEIMHdAfiBojN2sfyCy0xZJCv+Z0n3zQhxsYOIRoZJzcReAgHCo3NpZ8RA1paNj4/YYae25lWR8knOgDXUKVRvROvVf4KqMaKvvCNCRDMsD6SHKhFtQHDIXI6AUK/ZQ1E5OEmbaaXdP0cKAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJBIbskKOQQ4V/DFRoy08Dy/w1Jg2OKWVCeQvzqbdcpOo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/revarcline
+
+==================================================================
