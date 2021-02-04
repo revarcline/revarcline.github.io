@@ -16,10 +16,11 @@ layout: page
     </div>
 </div>
 
-<div class="post-descr">
+<div class="post-excerpt">
     <p>
-        {{ post.description }}
+        {{ post.excerpt }}
     </p>
+    <p><a href="{{ post.url | relative_url }}">read more...</a></p>
 </div>
 {% endfor %}
 
