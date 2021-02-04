@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-yo! i make things.
+alex cline! that's me!
