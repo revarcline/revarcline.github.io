@@ -20,6 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   burgeoining webdev
 baseurl: "" # the subpath of your site, e.g. /blog
 author: alex cline
+copyright: 2021
+
 url: "https://buckar.ooo" # the base hostname & protocol for your site, e.g. http://example.com
 share:
   twitter: true
@@ -38,3 +40,4 @@ theme: jekyll-clean-dark
 plugins:
   - jekyll-feed
 
+exclude: ['README.md', 'LICENSE']
