@@ -101,7 +101,7 @@ ul.social-media {
     height: 45px;
     @include transition(color 0.2s);
     display: inline-block;
-    color: white;
+    color: #ebdbb2;
     &:hover {
       color: $accent-color;
     }
@@ -127,7 +127,7 @@ ul.share-buttons {
     .fa-linkedin-in,
     .fa-envelope,
     .fa-pinterest-p {
-      color: #ffffff
+      color: #ebdbb2
     }
     a {
       text-decoration: none;
