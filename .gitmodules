@@ -1,3 +1,6 @@
 [submodule "jekyll-gruvvy"]
 	path = jekyll-gruvvy
 	url = https://github.com/revarcline/jekyll-gruvvy
+[submodule "gruvvy"]
+	path = gruvvy
+	url = git@github.com:revarcline/gruvvy.git
