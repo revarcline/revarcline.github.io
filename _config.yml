@@ -24,13 +24,15 @@ copyright: 2021
 
 url: "https://buckar.ooo" # the base hostname & protocol for your site, e.g. http://example.com
 share:
-  twitter: true
-  github: true
-  email: true
+  twitter:   true
+  github:    true
+  instagram: true
+  email:     true
 
 social: 
-  twitter: alexcline
-  github:  revarcline
+  twitter:   alexcline
+  github:    revarcline
+  instagram: reverendalex
 
 comments: false
 
