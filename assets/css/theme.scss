@@ -40,6 +40,7 @@ $background-pattern: 'arabesque.png';
 body {
   color: $font-color;
   background: $background-color url(pics/background/#{$background-pattern});
+  font-family: monospace;
 }
 .card {
   background-color: $post-panel-color;
@@ -172,7 +173,7 @@ h2.post-title {
 div.post-meta {
   z-index: 1;
   border-width: 1px 0;
-  border-color: #666666;
+  border-color: #665c54;
   border-style: solid;
   margin: 0 0 20px;
   ul {
@@ -249,16 +250,16 @@ nav {
   border-top: 3px #b16286 solid;
   border-bottom: 1px #000000 solid;
   .navbar-brand, .nav-link {
-   color: #bdae93;
+   color: #bdae93 !important;
    @include transition(color 0.31s);
    transition: all .7s ease;
   }
   .navbar-brand:hover, .nav-link:hover {
-    color: #ebdbb2;
+    color: #d3869b !important;
   }
   .navbar-brand {
     font-size: 30px;
-    color: #bdae93;
+    color: #ebdbb2 !important;
   }
   .navbar-nav {
     margin-left: auto;
@@ -416,7 +417,7 @@ table.inner-borders {
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
   margin: 0;
-  font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+  font-family: monospace;
   border-left: 0;
   bottom: -2px;
   position: relative;
