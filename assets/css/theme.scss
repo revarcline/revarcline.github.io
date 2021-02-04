@@ -17,21 +17,22 @@
 //********************************************************
 
 // Several accent colors, choose one or create your own!
-$accent-color: #3CA2A2;    // original =)
+//$accent-color: #3CA2A2;    // original =)
 //$accent-color: #C38FD6;  // velvet
 //$accent-color: #8FD6B3;  // greenish
 //$accent-color: #35B4DE;  // bluish
 //$accent-color: #D2E354;  // yellowish
 //$accent-color: #52B54B;  // green
+$accent-color: #b16286; // gruvbox purple
 
-$font-color: #dddddd;
-$background-color: #292929;
-$post-panel-color: #39393a;
-$footer-background-color: #292c2f;
+$font-color: #ebdbb2;
+$background-color: #282828;
+$post-panel-color: #3c3836;
+$footer-background-color: #1d2021;
 $note-color: #87CEFA;
 $warning-color: #ffff00;
 // use this or pick any from /css/pics/background folder or from transparenttextures.com
-$background-pattern: 'random-grey-variations.png';
+$background-pattern: 'arabesque.png';
 
 //********************************************************
 //                  Common styles
@@ -239,7 +240,7 @@ nav {
   background-color: #222;
   border-color: #080808;
   font-size: 18px;
-  font-family: "Ubuntu", sans-serif;
+  font-family: monospace;
   padding: 0 10px !important;
   border-top: 3px #3CA2A2 solid;
   border-bottom: 1px #000000 solid;
