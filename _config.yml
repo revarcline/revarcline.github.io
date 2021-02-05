@@ -30,6 +30,9 @@ share:
   keybase:   true
   email:     true
 
+collections:
+  - projects
+
 social: 
   twitter:   alexcline
   github:    revarcline
