@@ -1,4 +1,4 @@
-<h6>Follow me</h6>
+<h6>get in touch</h6>
 
 <ul class="social-media">
 
@@ -29,6 +29,18 @@
   {% if site.social.instagram %}
     <li>
       <a title="{{ site.social.instagram }} on Instagram" href="https://instagram.com/{{ site.social.instagram }}" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
+    </li>
+  {% endif %}
+
+  {% if site.social.keybase %}
+    <li>
+      <a title="{{ site.social.keybase }} on Keybase" href="https://keybase.io/{{ site.social.keybase }}" target="_blank"><i class="fab fa-keybase fa-2x"></i></a>
+    </li>
+  {% endif %}
+
+  {% if site.social.email %}
+    <li>
+      <a title="Send an email to {{ site.social.email }}" href="mailto:{{ site.social.email }}" target="_blank"><i class="far fa-envelope fa-2x"></i></a>
     </li>
   {% endif %}
 

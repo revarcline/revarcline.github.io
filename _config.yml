@@ -27,12 +27,15 @@ share:
   twitter:   true
   github:    true
   instagram: true
+  keybase:   true
   email:     true
 
 social: 
   twitter:   alexcline
   github:    revarcline
+  email:     rev.a.r.cline@gmail.com
   instagram: reverendalex
+  keybase:   revarcline
 
 comments: false
 
