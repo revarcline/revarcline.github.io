@@ -40,7 +40,6 @@ excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
-theme: jekyll-clean-dark
 plugins:
   - jekyll-feed
 
