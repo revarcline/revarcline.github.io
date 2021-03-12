@@ -1,7 +1,7 @@
 In Rails and other MVC frameworks, you don't always need to fill out an entire form to update a resource. Similar to the 'destroy' function in many a RESTful application, it's pretty easy to dedicate a route to alter a single attribute in a given model. By doing so, a user can update that information with a single button (or link, using jQuery) making a `PATCH` request.
 <!--more-->
 
-My most recent project features a fairly lightweight admin scope where I grant a user managerial prvileges using a simple boolean value, `admin`. The boolean is set to `false` by default in the migration and model. The user index page, which is restricted to admin users, allows an admin user to grant or revoke admin access to any user aside from themselves with a single click: 
+[My most recent project](https://github.com/revarcline/petrescue) features a fairly lightweight admin scope where I grant a user managerial prvileges using a simple boolean value, `admin`. The boolean is set to `false` by default in the migration and model. The user index page, which is restricted to admin users, allows an admin user to grant or revoke admin access to any user aside from themselves with a single click: 
 
 ![Users view](/assets/images/all_users.png)
 
