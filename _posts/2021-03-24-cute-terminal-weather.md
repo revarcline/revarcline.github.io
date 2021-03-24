@@ -1,5 +1,10 @@
-I'm a big fan of Igor Chubin's [wttr.in](https://wttr.in/) as a lovely little tool to look up the weather in the terminal. You even get color ascii art! To make using it a little easier in the terminal, I added the following to my `.zshrc` (this should also work in your `.bashrc`):
+I'm a big fan of Igor Chubin's [wttr.in](https://wttr.in/) as a lovely little tool to look up the weather in the terminal. You even get color ascii art!
 
+Here's an example of it in action:
+![current weather](/assets/images/wttr.png)
+
+To make using it a little easier in the terminal, I added the following to my `.zshrc` (this should also work in your `.bashrc`):
+<!--more-->
 ```bash
 # weather forecast (2 column)
 wf ()
