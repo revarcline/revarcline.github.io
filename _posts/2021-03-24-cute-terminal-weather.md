@@ -4,8 +4,10 @@ Here's an example of it in action:
 
 ![current weather](/assets/images/wttr.png)
 
-To make using it a little easier in the terminal, I added the following to my `.zshrc` (this should also work in your `.bashrc`):
 <!--more-->
+
+To make using it a little easier in the terminal, I added the following to my `.zshrc` (this should also work in your `.bashrc`):
+
 ```bash
 # weather forecast (2 column)
 wf ()
