@@ -23,4 +23,4 @@ cw ()
 }
 ```
 
-Simply replace `New Orleans` with your own city. Of note, if you are using it to look up another city with a two word name, note that the space will end the argument unless you denote it as literal. For instance, run it as `cw NewYork`, `cw New\ York`, `cw 'New York'`, or even `cw NewYork` will work. Zip codes should work too.
+Simply replace `New Orleans` with your own city. Of note, if you are using it to look up another city with a two word name, note that the space will end the argument unless you denote it as literal. For instance, run it as `cw New+York`, `cw New\ York`, `cw 'New York'`, or even `cw NewYork` will work. Zip codes should work too.
