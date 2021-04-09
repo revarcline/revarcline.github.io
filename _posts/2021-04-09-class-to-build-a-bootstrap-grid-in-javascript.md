@@ -1,4 +1,4 @@
-[Bootstrap](https://getbootstrap.com/) and lightweight alternatives like [minstyle.io]()https://minstyle.io/ help designers build out flexible responsive web pages by denoting a 12-column grid with css selectors like so: 
+[Bootstrap](https://getbootstrap.com/) and lightweight alternatives like [minstyle.io](https://minstyle.io/) help designers and developers build out flexible responsive web pages by creating a 12-column grid with css selectors like so: 
 
 ```html
 <div class="container">
