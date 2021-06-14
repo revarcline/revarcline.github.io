@@ -1,5 +1,5 @@
 ---
-name: exquisite
+name: cellarmonster
 link: https://cellarmonster.buckar.ooo/
 source: https://github.com/revarcline/cellarmonster_frontend
 ---
