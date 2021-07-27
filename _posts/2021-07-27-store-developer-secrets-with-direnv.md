@@ -1,4 +1,5 @@
 Using environment variables to store developer secrets has always been tricky for me. I've used things like [dotenv](https://github.com/bkeepers/dotenv) but as I moved into Elixir/Phoenix development, I was having a hard time finding a similar solution. Enter [direnv](https://direnv.net/), a far more elegant solution that won't pollute your `.profile` or your project modules.
+<!--more-->
 
 To install direnv, first install the relevant package for your os, direnv's site offers helpful instructions [here](https://direnv.net/docs/installation.html). After it's installed, time to configure your shell. I use `zsh`, so I added the following line at the end of my `.zshrc`:
 
