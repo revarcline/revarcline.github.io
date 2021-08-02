@@ -1,6 +1,6 @@
 ---
-name: petrescue
-link: https://revarcline-petrescue.herokuapp.com/
-source: https://github.com/revarcline/petrescue
+name: craziest eights
+link: https://craziest-eights.herokuapp.com/
+source: https://github.com/revarcline/craziest_eights_api
 ---
-rails application for an animal shelter or pet rescue to create appointments for pet adoption. demo logins: 'petseeker@example.com' - 'wannapet', 'shelteradmin@example.com' - 'gottapet', can also use google oauth
+rails api simulating a game of crazy eights over http, along with example javascript api library.
