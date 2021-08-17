@@ -1,4 +1,4 @@
-[systemd](https://systemd.io/) is a modern init system for linux created by Red Hat. It's not without its detractors, who tend to decry it as bloated and overly-centralized, but given its inclusion in most popular linux distributions, like Debian, Ubuntu, Red Hat, and Arch, like it or not it's here to stay. 
+[systemd](https://systemd.io/) is a modern init system for linux created by Red Hat. It's not without its detractors, who tend to decry it as bloated and overly-centralized, but given its inclusion in most popular linux distributions like Debian, Ubuntu, Red Hat, and Arch, like it or not it's here to stay. 
 
 For an end-user, systemd offers a fairly easy way to automate jobs or run persistent processes. For the most part, your distribution will handle setting up these services for you and automatically enable them to run as needed. In some cases, you may want to run a script or program persistently from launch, and making your own systemd service to do this is a pretty painless endeavor.
 <!--more-->
